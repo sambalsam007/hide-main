@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "alias hide='$HOME/hide-main/hide-main.sh'" >> ~/.zshrc
+echo added alias to '.zshrc file'
+echo you can now use 'hide'
+echo type 'hide' + the .c file which int main you want to hide
+exit
+
