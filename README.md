@@ -4,4 +4,4 @@
 2. call the folder: hide-main
 3. inside the folder, execute ./install
 ## how to use
-type *hide* and *the c file* which int main you want to hide
+type **hide** and *the c file which int main you want to hide*
